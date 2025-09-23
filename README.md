@@ -13,7 +13,7 @@ For practice and demonstration purposes, we’ll be using the **OrangeHRM demo a
 
 ---
 
-## 📦 Getting Started
+## 📦 Some Basic Installation
 
 ### 1. Clone the Repository
 ```bash
