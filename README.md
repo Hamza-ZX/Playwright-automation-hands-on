@@ -15,13 +15,30 @@ For practice and demonstration purposes, we’ll be using the **OrangeHRM demo a
 
 ## 📦 Getting Started
 
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Hamza-ZX/Playwright-Automation-Hands-On.git
+cd Playwright-Automation-Hands-On
+```
+
+### 2. Install Dependencies
+```bash
+npm init -y
+npm install @playwright/test
+```
+
+### 3 Install Browsers
+```bash
+npx playwright install
+```
 Playwright-Automation-Hands-On/
-│── tests/
-│   ├── e2e/
-│   ├── accessibility/
-│   ├── components/
-│   ├── api/
-│── playwright.config.js
-│── package.json
-│── README.md
+├── tests/
+│ ├── e2e/
+│ ├── accessibility/
+│ ├── components/
+│ ├── api/
+├── playwright.config.js
+├── package.json
+└── README.md
+
 
