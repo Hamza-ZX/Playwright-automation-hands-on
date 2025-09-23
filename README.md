@@ -31,14 +31,5 @@ npm install @playwright/test
 ```bash
 npx playwright install
 ```
-Playwright-Automation-Hands-On/
-├── tests/
-│ ├── e2e/
-│ ├── accessibility/
-│ ├── components/
-│ ├── api/
-├── playwright.config.js
-├── package.json
-└── README.md
 
 
