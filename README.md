@@ -17,5 +17,5 @@ For practice and demonstration purposes, we’ll be using the **OrangeHRM demo a
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<Hamza-ZX>/Playwright-Automation-Hands-On.git
+git clone https://github.com/Hamza-ZX/Playwright-Automation-Hands-On.git
 cd Playwright-Automation-Hands-On
