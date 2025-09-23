@@ -8,7 +8,7 @@ The goal is to provide hands-on examples that cover different aspects of automat
 - 🧩 **Component Testing**  
 - 🌐 **API Testing**  
 
-For practice and demonstration purposes, we’ll be using the **OrangeHRM demo application**:  
+For practice and demonstration purposes, we’ll be using the **OrangeHRM demo website**:  
 🔗 [OrangeHRM Demo Site](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login)
 
 ---
